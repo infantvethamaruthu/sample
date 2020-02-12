@@ -1,0 +1,10 @@
+Steps to run the UI Application:
+---------------------------------
+Navigate to \crud_ui_extjs\run\apache-tomcat-7.0.100\bin directory.
+Run start.bat and start apache tomcat.
+Run chrome_disable_security and launch  CrudUI in security disabled chrome browser as http://localhost:80/CrudUI
+
+Steps to run Spring boot server app:
+------------------------------------
+Navigate to Navigate to \crud_ui_extjs\run\
+Open terminal and enter "java -jar crudapplication-0.0.1-SNAPSHOT"
